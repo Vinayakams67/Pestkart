@@ -1,0 +1,32 @@
+.main {
+  /* justify-content: center; */
+  /* align-items: center; */
+  /* text-align: center; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.middle-wrapper {
+  justify-content: center;
+  align-items: center;
+  /* flex-wrap: wrap; */
+}
+.middle-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 300px;
+  width: 800px;
+}
+/* 
+.main .middle-wrapper .middle-div .logo_img img {
+  margin-top: 10px;
+} */
+
+h2 p {
+  text-align: center;
+}
